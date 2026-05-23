@@ -1,0 +1,19 @@
+{
+  "id": "THYAGOHUB",
+  "name": "Thyago",
+  "short_name": "Perfil do atleta",
+  "scope": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#ff0000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "profile.avif",
+      "sizes": "any",
+      "type": "image/avif"
+    }
+  ],
+  "app_name": "Thyago",
+  "description": "professional athlete, world champion 8 times"
+}
