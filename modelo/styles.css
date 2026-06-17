@@ -1,0 +1,105 @@
+.texto-direita{
+    text-align: right;
+}
+
+.barra-navegação{
+    background:rgb(0, 0, 0) !important;
+    padding: 10px;
+    min-height:10px;
+}
+
+.barra-navegação a{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 8px 15px;
+    text-decoration: none;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+h1{
+    background-color: #ececb4;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+    .link{
+    background-color: red;
+}
+
+.meia-caixa{
+    width: 50%;
+    right: 250px;
+    color:white;
+    background-color: red;
+}
+
+.container{
+    display:flex;
+    margin-top:10px;
+}
+
+
+h1{
+    text-align:left;
+}
+
+.vermelho{
+    background:red;
+    width:50%;
+    height:250px;
+    color:white;
+    text-align:right;
+    line-height:100px;
+}
+.azul{
+    background:blue;
+    width:50%;
+    height:250px;
+    text-align:left;
+    line-height:100px;
+}
+
+.verde{
+    background:green;
+    width:50%;
+    height:250px;
+    color:white;
+    text-align:center;
+    line-height:100px;
+    margin-top:10px;
+}
+
+.vermelho,
+.azul,
+.verde{
+    display:block;
+    flex-direction:column;
+    justify-content:right;
+    align-items:flex;
+    color:white;
+}
+
+.amarelo{
+     background:yellow;
+    width:50%;
+    height:250px;
+    color:white;
+    text-align:center;
+    line-height:100px;
+}
+
+.lilas{
+     background:#A682AC;
+    width:50%;
+    height:250px;
+    color:white;
+    text-align:center;
+    line-height:100px;
+}
+
+.vermelho span,
+.azul span,
+.verde span{
+    display:block;
+}

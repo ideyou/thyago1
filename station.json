@@ -1,0 +1,12 @@
+{
+  "color": "#000",
+  "background_color": "beige",
+  "icons": [
+    {
+      "src": "profile.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ],
+  "name": "Thyago Reis"
+}
